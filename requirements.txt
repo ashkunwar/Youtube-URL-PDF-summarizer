@@ -30,5 +30,5 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-pip install youtube-transcript-api
-pip install validators streamlit
+youtube-transcript-api
+validators streamlit
