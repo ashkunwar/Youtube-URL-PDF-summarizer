@@ -18,7 +18,7 @@ st.subheader("Summarize URL or PDF")
 
 # Sidebar for API Key
 with st.sidebar:
-    groq_api_key = st.text_input("Groq API Key", value="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", type="password")
+    groq_api_key = st.text_input("Groq API Key", value="your api key", type="password")
 
 # Input URL or File
 generic_url = st.text_input("URL", label_visibility="collapsed")
