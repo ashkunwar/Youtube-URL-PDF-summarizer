@@ -1,6 +1,6 @@
 # LangChain: Summarize Text From YouTube, Website, or PDF
 
-![App Screenshot]("")![WhatsApp Image 2024-12-28 at 17 09 59_40c1935f](https://github.com/user-attachments/assets/ce84fc02-31d9-4839-aba8-10356c904331)
+![App Screenshot][](https://github.com/user-attachments/assets/ce84fc02-31d9-4839-aba8-10356c904331)
 
 
 
