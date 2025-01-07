@@ -1,5 +1,8 @@
 # LangChain: Summarize Text From YouTube, Website, or PDF
 
+![![WhatsApp Image 2024-12-28 at 17 09 59_8c0e8d51](https://github.com/user-attachments/assets/91c2474e-19e8-46a0-99b5-0cacb7cd1f2d)
+](image.png)
+
 This project leverages LangChain, Groq API, and other libraries to provide an intuitive interface for summarizing text content from YouTube videos, websites, or PDF files.
 
 ## Features
@@ -54,6 +57,9 @@ This project leverages LangChain, Groq API, and other libraries to provide an in
 
 3. Input a URL (YouTube/website) or upload a PDF file and click "Summarize the Content from YT, Website, or PDF."
 
+## Deployed App
+Check out the live application: [LangChain Summarizer App](https://youtube-url-pdf-summarizer-bny.streamlit.app/)
+
 ## Project Files
 - `app.py`: Main application file.
 - `requirements.txt`: List of required Python packages.
@@ -65,3 +71,4 @@ This project leverages LangChain, Groq API, and other libraries to provide an in
 
 ## License
 This project is licensed under the MIT License.
+
