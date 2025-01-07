@@ -1,6 +1,7 @@
 # LangChain: Summarize Text From YouTube, Website, or PDF
 
-![App Screenshot]("C:\Users\ashan\OneDrive\Desktop\WhatsApp Image 2024-12-28 at 17.09.59_40c1935f.jpg")
+![App Screenshot]("")![WhatsApp Image 2024-12-28 at 17 09 59_40c1935f](https://github.com/user-attachments/assets/ce84fc02-31d9-4839-aba8-10356c904331)
+
 
 
 This project leverages LangChain, Groq API, and other libraries to provide an intuitive interface for summarizing text content from YouTube videos, websites, or PDF files.
