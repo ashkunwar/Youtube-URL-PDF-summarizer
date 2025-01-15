@@ -59,7 +59,7 @@ This project leverages LangChain, Groq API, and other libraries to provide an in
 3. Input a URL (YouTube/website) or upload a PDF file and click "Summarize the Content from YT, Website, or PDF."
 
 ## Deployed App
-Check out the live application: [LangChain Summarizer App](https://youtube-url-pdf-summarizer-bny.streamlit.app/)
+Deployed the application on HuggingFace: [LangChain Summarizer App](https://huggingface.co/spaces/Ashkchamp/MultiSummarizationApp)
 
 ## Project Files
 - `app.py`: Main application file.
